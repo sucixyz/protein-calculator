@@ -1,6 +1,3 @@
-import streamlit as st
-import matplotlib.pyplot as plt
-
 # Judul Aplikasi
 st.title("🥚 Kalkulator Kebutuhan Protein Harian")
 
